@@ -1,0 +1,251 @@
+@charset "utf-8"; 
+
+header{
+   border: solid 4px black;
+   text-align: center;
+   background-color: lightsalmon;
+   border-bottom: solid black 1px;
+   display: flex;
+}
+
+main{
+   display: flex;
+}
+
+span{
+   font-style: italic;
+   border-radius: 2px;
+   color: white;
+   margin: 2px;
+   
+}
+
+h6{
+    margin-top: 10px;
+    font-style: italic;
+    border-radius: 2px;
+    color: white;
+    margin: 2px;
+    font-size: 10px;
+    }
+
+
+h1{
+   color: white;
+    font-family: "Momo Trust Display", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  
+  
+
+ 
+   
+nav a{
+     
+   text-decoration: none;
+   padding: 10px;
+   display: inline-flex;
+   align-items: center;
+   }
+   
+nav a:hover{
+   
+   background-color: black;  
+   
+}
+
+article{
+   border: 4px solid black;
+   flex: 2;
+  
+  
+   
+ 
+ 
+}
+
+#H{
+   margin-left: 20px;
+   
+}
+
+h3{
+   font-size: 30px;
+   margin-left: 30px;
+   flex: 1;
+   color: white;
+   font-family: "Momo Trust Display", sans-serif;
+   font-style: normal;
+   font-weight: 300;
+}
+
+aside{
+   float: right;
+   flex: 1;
+   border: 4px solid black;
+   border-left: solid 0.5px white;
+   display: grid;
+   grid-template-columns: 1fr 1fr;
+   grid-template-rows:  1fr 1fr;
+   grid-template-areas:
+   "N       M"
+   "B       V"
+ ;
+ 
+}
+
+#C{
+    grid-area: C;
+}
+
+
+table{
+   margin-left: 20px;
+   margin-top: 60px;
+   border-collapse: collapse;
+   height: 250px;
+   width: 0%; 
+   }
+
+td{
+  border: 2px solid darkgray;
+  padding: 8px;
+  font-style: italic;
+}
+h1{
+   color: white;
+   flex: 2;
+   
+}
+   
+
+li{
+   margin: 0 0 15px 0;
+   font-style: italic;
+}
+
+h2{
+   margin-left: 1px;
+   
+}
+
+#C{
+width: 700px;
+float: right;
+margin-top: 60px;
+margin-right: 10px;
+height: 51vh;
+margin-right: 20px;
+border-radius: 8px;
+}
+
+h2{
+   margin-left: 20px;
+}
+
+#B{
+   width: 300px;
+   height: 22vh;
+   margin-left: 40px;
+   border-radius: 8px;
+}
+
+#A{
+   height: 22vh;
+   width: 300px;
+   margin-left: 40px;
+   border-radius: 8px;
+}
+
+#N{
+    grid-area: N;
+    background-image: url(morotskaka.jpg);
+    width: 200px;
+    height: 24vh;
+    background-size: cover;
+    margin-top: 60px;
+    margin-left: 20px;
+    margin-bottom: 80px;
+    border-radius: 8px;
+}
+
+#M{
+    grid-area: M;
+    background-image: url(img_2409-1-scaled.jpg);
+    width: 200px;
+    height: 24vh;
+    background-size: cover;
+    margin-top: 60px;
+    margin-right: 20px;
+    margin-left: 10px;
+    margin-bottom: 80px;
+    border-radius: 8px;
+
+}
+
+#B{
+    grid-area: B;
+    background-image:url(banankaka.jpg);
+    width: 200px;
+    height: 24vh;
+    background-size: cover;
+    margin-right: 15px;
+    margin-left: 20px;
+    margin-bottom: 80px;
+    border-radius: 8px;
+    
+   
+}
+
+#V{
+    grid-area: V;
+    background-image: url(4d2b8322-ae61-4e2d-9b52-e2c42d25d5b6.jpg);
+    width: 200px;
+    height: 24vh;
+    background-size: cover;
+    margin-left: 10px;
+    margin-bottom: 80px;
+    border-radius: 8px;
+   
+  
+}
+
+#M p{
+    padding-left: 60px;
+    padding-bottom: 20px;
+    font-size: 20px;
+    color: white;
+    font-style: italic;
+    text-shadow: black 10px;
+}
+
+#N p{  padding-left: 60px;
+    padding-bottom: 20px;
+    font-size: 20px;
+    color: white;
+    font-style: italic;
+    text-shadow: black 10px;
+} 
+
+
+#B p{
+    padding-left: 60px;
+    padding-bottom: 20px;
+    font-size: 20px;
+    color: white;
+    font-style: italic;
+    text-shadow: black 10px;
+}
+
+#V p{
+    text-shadow: black 10px;
+    padding-left: 60px;
+    padding-bottom: 20px;
+    font-size: 20px;
+    color: white;
+    font-style: italic;
+}
+
+

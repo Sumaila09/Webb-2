@@ -1,0 +1,31 @@
+
+
+
+header{
+    background-color: red;
+    color: white;
+    padding-left: 15px;
+    padding-bottom: 15px;
+}
+
+@media (min-width: 700px){
+    div{
+        display: flex;
+    }
+
+    div section{
+        flex: 1;
+    }
+
+
+}
+
+footer p{
+    color: white;
+}
+
+footer{
+    background-color: brown;
+}
+
+ 

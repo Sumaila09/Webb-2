@@ -1,0 +1,156 @@
+@charset "utf-8"; 
+
+header{
+   border: solid 4px black;
+   text-align: center;
+   background-color: burlywood;
+   border-bottom: solid black 1px;
+   display: flex;
+
+
+}
+ul{
+    margin-left: 20px;
+}
+main{
+   display: flex;
+}
+
+span{
+   font-style: italic;
+   border-radius: 2px;
+   color: white;
+   margin: 2px;
+}
+
+
+h1{
+  color: white;
+   font-family: "Momo Trust Display", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    margin-right: 42x;
+    padding-bottom: 15px;
+   
+}
+
+ 
+   
+nav a{
+     
+   text-decoration: none;
+   padding: 10px;
+   display: inline-flex;
+   align-items: center;
+   }
+   
+nav a:hover{
+   
+   background-color: black;  
+   
+}
+
+article{
+   border: 4px solid black;
+   flex: 2;
+  
+  
+   
+ 
+ 
+}
+
+#H{
+   margin-left: 20px;
+   margin: ;
+}
+
+h3{
+   font-size: 20px;
+   margin-left: 30px;
+   padding: 10px;
+   font-style: italic;
+}
+
+aside{
+   float: right;
+   flex: 1;
+   border: 4px solid black;
+   border-left: solid 0.5px white;
+ 
+}
+
+
+
+table{
+   margin-left: 20px;
+   margin-top: 20px;
+   border-collapse: collapse;
+   height: 250px;
+   width: 0%; 
+   }
+
+td{
+  border: 2px solid darkgray;
+  padding: 8px;
+  font-style: italic;
+}
+h1{
+   color: white;
+   flex: 2;
+}
+
+h4{
+   flex: 1;
+}
+   
+
+li{
+   margin: 0 0 15px 0;
+   font-style: italic;
+}
+
+h2{
+   margin-left: 1px;
+}
+
+h3{
+    font-size: 30px;
+    font-style: italic;
+}
+
+#C{
+width: 640px;
+float: right;
+margin-top: 20px;
+margin-right: 10px;
+height: 53vh;
+margin-right: 20px;
+border-radius: 8px;
+}
+
+h4{
+    font-size: 25px;
+    margin-left: 40px;
+    font-style: italic;
+}
+
+h2{
+   margin-left: 20px;
+}
+
+#B{
+   width: 300px;
+   height: 22vh;
+   margin-left: 40px;
+}
+
+#A{
+   height: 22vh;
+   width: 300px;
+   margin-left: 40px;
+   border-radius: 8px;
+}
+
+
+

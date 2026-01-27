@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../11_länkar"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Webbutveckling"
+	}
+}

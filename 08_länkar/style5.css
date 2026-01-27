@@ -1,0 +1,178 @@
+ @charset "utf-8"; 
+
+ header{
+    border: solid 4px black;
+    text-align: center;
+    background-color: purple;
+    border-bottom: solid black 1px;
+    display: flex;
+ 
+
+}
+
+
+
+h6{
+    font-weight: 300;
+    padding-top: 22px;
+    margin-top: 40px;
+    font-style: italic;
+    border-radius: 2px;
+    color: white;
+    margin: 2px;
+    font-size: 20px;
+
+}
+
+
+main{
+    display: flex;
+}
+
+
+span{
+    font-style: italic;
+    border-radius: 2px;
+    color: white;
+    margin: 2px;
+    font-size: 15px;
+    
+    }
+
+figure {
+    display: flex;
+    flex-flow: column;
+    padding: 5px;
+    max-width: 300px;
+    margin: auto;
+  }
+  
+  figcaption {
+    background-color: #222222;
+    color: white;
+    font: italic smaller sans-serif;
+    padding: 3px;
+    text-align: center;
+  }
+  
+
+
+h1{
+    font-style: italic;
+    flex: 2;
+  }
+    
+nav a{
+    text-decoration: none;
+    padding: 10px;
+    display: inline-flex;
+    align-items: center;
+
+    }
+    
+nav a:hover{
+    
+    background-color: black;  
+    
+}
+
+h4{
+    flex: 1;
+   
+}
+
+article{
+    border: 4px solid black;
+    flex: 2;
+   
+   
+  
+}
+
+#H{
+    margin-left: 20px;
+    margin-left: 50px;
+}
+
+h3{
+    font-size: 20px;
+    margin-left: 78px;
+    padding: 10px;
+    font-style: italic;
+}
+
+aside{
+    float: right;
+    flex: 1;
+    border: 4px solid black;
+    border-left: solid 0.5px white;
+  
+}
+
+
+
+
+table{
+    margin-left: 20px;
+    margin-top: 20px;
+    border-collapse: collapse;
+    height: 250px;
+    width: 0%; 
+    }
+
+td{
+   border: 2px solid darkgray;
+   padding: 8px;
+   font-style: italic;
+}
+h1{
+    color: white;
+    font-family: "Momo Trust Display", sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    padding-bottom: 15px;
+}
+    
+
+ li{
+    margin: 0 0 15px 0;
+    font-style: italic;
+    
+ }
+
+ h2{
+    margin-left: 1px;
+ }
+
+#C{
+width: 700px;
+float: right;
+margin-top: 20px;
+margin-right: 10px;
+height: 44vh;
+margin-right: 20px;
+border-radius: 8px;
+ }
+
+ h2{
+    margin-left: 20px;
+ }
+
+ #B{
+    width: 300px;
+    height: 22vh;
+    margin-left: 78px;
+    border-radius: 8px;
+
+ }
+
+ #A{
+    height: 22vh;
+    width: 300px;
+   border-top-left-radius: 8px;
+   border-top-right-radius: 8px;
+   margin-right: 80px;
+ }
+
+
+

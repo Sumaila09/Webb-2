@@ -1,0 +1,18 @@
+article{
+display: flex;
+
+
+
+
+}
+
+section{
+    flex: 1;
+    border-radius: 8px;
+    font-family: verdana;
+    margin: 10px;
+    padding: 10px;
+    background: green;
+    color: white;
+}
+
