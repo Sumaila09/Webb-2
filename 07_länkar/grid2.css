@@ -1,0 +1,96 @@
+@charset "UTF-8";
+
+article{
+    padding-left: 20%;
+    padding-right: 20%;
+    display: grid;
+    height: 100vh;
+    grid-template-columns:1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-areas:
+    
+    "a      b       c"
+    "d      .       f"
+    "g      e       h"               
+    "i      t       t"           
+    "j      t       t"         
+    
+    ;
+
+}
+
+#a{
+    grid-area: a;
+    background-size: cover;
+    background-image: url(image/Paris_Grids/a.jpg);
+   
+}
+
+#b{
+    grid-area: b;
+    background-size: cover;
+    background-image: url(image/Paris_Grids/b.webp);
+
+}
+
+#c{
+    grid-area: c;
+    background-size: cover;
+    background-image: url(image/Paris_Grids/c.jpg);
+    border-top-right-radius: 50px;
+}
+
+#d{
+    grid-area: d;
+    background-size: cover;
+    background-image: url(image/Paris_Grids/d.jpg);
+}
+
+#e{
+    grid-area: e;
+    background-size: cover;
+    background-image: url(image/Paris_Grids/e.jpg);
+}
+
+#f{
+    grid-area: f;
+    background-size: cover;
+    background-image: url(image/Paris_Grids/f.jpg);
+}
+
+#g{
+    grid-area: g;
+    background-size: cover;
+    background-image: url(image/Paris_Grids/g.webp);
+}
+
+#h{
+    grid-area: h;
+    background-size: cover;
+    background-image: url(image/Paris_Grids/h.jpg);
+    border-bottom-right-radius: 50px;
+}
+
+#i{
+    grid-area: i;
+    background-size: cover;
+    background-image: url(image/Paris_Grids/i.jpg);
+}
+
+#j{
+    grid-area: j;
+    background-size: cover;
+    background-image: url(image/Paris_Grids/j.jpg);
+  
+}
+
+#t{
+    grid-area: t;
+    background-size: cover;
+    color: black;
+    font-size: 40px;
+    padding-left: 10px;
+    
+    
+}
+

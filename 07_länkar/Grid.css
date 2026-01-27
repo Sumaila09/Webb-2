@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+#heat{
+    grid-area: heat;
+    background-size: cover;
+    background-image: url(image/heistmovies/heat.jpg);
+    }
+#inside{
+    grid-area: inside;
+    background-size: cover;
+    background-image: url(image/heistmovies/insideman.jpg);
+}
+#usual{
+    grid-area:usual;
+    background-size: cover;
+    background-image: url(image/heistmovies/usualsuspects.jpg);
+
+}
+#bankjob{
+    grid-area: bankjob;
+    background-size: cover;
+    background-image: url(image/heistmovies/bankjob.jpg);
+}
+#riffi{
+    grid-area:riffi;
+    background-size: cover;
+    background-image: url(image/heistmovies/rififi.jpg);
+}
+
+article{
+    display: grid;
+    height: 100vh;
+    grid-template-columns:1fr 1fr 1fr 1fr;
+    grid-template-areas: 
+    "heat      heat     heat       usual"
+    "inside     riffi       riffi       bankjob"
+    
+    ;
+    
+    
+}
+
+h2{
+    color: white;
+}

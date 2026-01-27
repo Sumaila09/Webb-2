@@ -1,0 +1,229 @@
+header{
+    background-color: rgb(94, 88, 88);
+    border-radius: 2px;
+    display: flex;
+    padding: 0px;
+    width: 100%;
+    position: fixed;
+    height: 7vh;
+    padding-bottom: 5px;
+   
+}
+
+
+ .material-symbols-outlined {
+  margin-top: 30px;
+  color: rgb(107, 107, 255);
+  font-size: 100px;
+  font-weight: bold;
+  font-weight: 800;
+  padding-left: 20px;
+  
+}
+ #L {
+ 
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+  font-weight: 500;
+  padding-left: 46%;
+  
+}
+
+
+
+nav a :hover{
+    background-color: aqua;
+}
+
+
+
+header p{
+    flex: 1;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    padding-left: 20px;
+    margin-bottom: 20px;
+    
+}
+
+
+body{
+   background-image: url(/images/pexels-kevin-ku-577585.jpg);
+   background-size: cover;
+   padding-bottom: 50px;
+   width: 100%;
+   background-repeat: no-repeat;
+   height: 100vh;
+   margin: 0px;
+   font-family: ;
+   font-weight: ;
+   font-style: normal;
+   
+
+
+  
+   
+}
+
+footer p{
+    font-size: 10px;
+}
+
+
+nav{
+
+   
+
+}
+
+nav a{
+    display: inline-flex;
+    flex-direction: column;
+    padding-right: 10px;
+    align-items: right;
+    text-decoration: none;
+    color: white;
+    font-weight: 800;
+    margin-top: 20px;
+    margin-right: 20px;
+    
+    
+    
+    
+}
+
+span{
+flex-direction: column;
+margin: 0px 2px 0px 2px;
+color: white;
+font-weight: 800;
+
+
+   
+  
+}
+
+header nav a{
+display: inline-block;
+padding-top: 5px;
+padding-right: 5px;
+
+
+}
+
+
+
+.A{
+    font-size: 70px;
+    font-weight: 800;
+    color: white;
+    padding-left: 250px;
+    padding-right: 0px;
+
+
+}
+
+.B{
+    color: rgb(123, 123, 245);
+    font-size: 70px;
+    font-weight: 900;
+    padding-left: 0px;
+    padding-right: 10px;
+
+
+}
+
+section#webdev{
+justify-items: center;
+align-content: center;
+border:  solid; 
+height: 100vh;
+}
+
+.textcontainer{
+    width: 80%;
+    border: 3px solid;
+    background-color: rgba(0, 0, 0, 0.4);
+   
+}
+
+section p{
+    overflow: hidden;
+    color: white;
+    font-size: 50px;
+    font-weight: 800;
+    padding-left: 130px;
+
+}
+#lorem{
+    margin-top: 100px;
+    padding-right: 25%;
+    padding-left: 25%;
+    height: 100vh;
+    font-size: 5px;
+    padding-top: 20%;
+   
+    
+   
+   
+    
+}
+
+#lorem p{
+    color: black;
+    font-size: 30px;
+}
+
+#Blog p{
+    color: black;
+    font-size: 30px;
+}
+
+footer{
+    background-color: grey;
+    height: 30vh;
+    padding-bottom: 13px;
+}
+
+em{
+    color: rgb(58, 231, 231);
+}
+
+
+#O{
+    font-size: 15px;
+    color: white;
+}
+
+#contact P{
+    font-size: 10px;
+    padding-left: 45%;
+    color: white;
+    font-style: italic;
+    }
+
+h2{
+    padding-left: 190px;
+    padding-top: 10%;
+    color: black;
+    font-size: 50px;
+}
+
+h3{
+    padding-left: 250px;
+    padding-top: 10%;
+    color: black;
+    font-size: 50px;
+}
+
+#Blog{
+    margin-bottom: 50px;
+    padding-right: 25%;
+    padding-left: 25%;
+    height: 100vh;
+    font-size: 5px;
+    padding-top: 10%;
+
+}
