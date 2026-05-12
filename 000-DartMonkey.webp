@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bloons TD 6 Guide</title>
+<link rel="stylesheet" href="BTD6.css">
+<link rel="icon" type="imagepng" sizes="32x32" href="Images/favicon_io (1)/favicon-32x32.png">
+<link rel="manifest" href="site.webmanifest">
+
+
+</head>
+
+<body>
+    
+
+<header>
+    <h1>🎮 Bloons TD 6 Guide</h1>
+    <p>Lär dig allt om spelet</p>
+    <nav>
+        <a href="#videos">Gameplay</a>
+        <a href="#info">Spelet</a>
+        <a href="#towers">Torn</a>
+        <a href="#bloons">Bloons</a>
+        <a href="#tips">Tips</a>
+        </nav>
+</header>
+
+
+<div class="balloon"></div>
+
+<section id="videos">
+
+    <h2>🎥 Gameplay</h2>
+
+    <div class="video-container">
+        <iframe 
+            src="https://www.youtube.com/embed/gyrWQOnu2Pk" 
+            title="Bloons TD 6 Gameplay"
+            frameborder="0"
+            allowfullscreen>
+        </iframe>
+
+        <iframe 
+            src="https://www.youtube.com/embed/q_AuwWvVaS8" 
+            title="Bloons TD 6 Strategy"
+            frameborder="0"
+            allowfullscreen>
+        </iframe>
+    </div>
+
+</section>
+
+<section id="info">
+
+    <h2>🎮 Om spelet</h2>
+
+
+    <p>
+    Bloons TD 6 är ett tower defense-spel där spelaren placerar apor
+    för att stoppa bloons från att nå slutet av banan.
+    När du poppar bloons får du pengar som du kan använda
+    för att köpa nya torn eller uppgradera dem.
+    </p>
+
+    <p>
+    Spelet innehåller många banor, spellägen och strategier
+    som gör att varje spelrunda kan vara annorlunda.
+    </p>
+
+</section>
+
+<section id="towers">
+
+    <h2>🐒 Populära torn</h2>
+
+<div class="card-container">
+
+<div class="card">
+    <img src="Images/000-DartMonkey.webp"alt="Dart monkey">
+    <h3>Dart Monkey</h3>
+    <p>Ett enkelt torn som kastar pilar och är bra i början av spelet.</p>
+</div>
+
+<div class="card">
+    <img src="Images/800px-BTD6_000-NinjaMonkey.png"alt="Ninja monkey">
+    <h3>Ninja Monkey</h3>
+    <p>Ett snabbt torn som kan se camo-bloons.</p>
+</div>
+
+<div class="card">
+    <img src="Images/images.jpg"alt="Wizard monkey">
+    <h3>Wizard Monkey</h3>
+    <p>Använder magi och kan kasta eld eller bli necromancer.</p>
+</div>
+
+<div class="card">
+    <img src="Images/000-SuperMonkey.webp"alt="Super monkey">
+    <h3>Super Monkey</h3>
+    <p>Ett mycket starkt torn som skjuter extremt snabbt.</p>
+</div>
+
+</div>
+
+</section>
+
+<section id="bloons">
+
+    <h2>🎈 Bloons</h2>
+
+    <img src="Images/5k6qi0z8ll051.webp" class="game-img"alt="System">
+
+    <p>
+    Bloons finns i många typer. Vissa är snabba, vissa är starka
+    och vissa är osynliga.
+    </p>
+
+    <ul>
+    <li>Red – enklast</li>
+    <li>Blue – snabbare</li>
+    <li>Green – ännu snabbare</li>
+    <li>Yellow – mycket snabb</li>
+    <li>Lead – kräver speciella torn</li>
+    <li>Camo – osynlig för vissa torn</li>
+    <li>ceramic - Behöver starka torn</li>
+    </ul>
+
+    <p>
+    Senare i spelet kommer stora bloons som MOAB, BFB, ZOMG och BAD.
+    </p>
+
+</section>
+
+<section id="tips">
+
+    <h2>📚 Tips för spelare</h2>
+
+    <ul>
+    <li>Placera torn nära svängar i banan.</li>
+    <li>Uppgradera torn istället för att köpa för många.</li>
+    <li>Se till att ha torn som kan poppa camo och lead.</li>
+    <li>Spara pengar för starka torn senare.</li>
+    </ul>
+
+</section>
+
+<footer>
+    <p>Bloons TD 6</p>
+</footer>
+
+</body>
+</html>
